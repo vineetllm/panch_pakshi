@@ -1,2 +1,7 @@
 streamlit
 pandas
+astral
+pytz
+swisseph
+ephem
+
